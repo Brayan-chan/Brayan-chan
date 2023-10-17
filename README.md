@@ -24,7 +24,7 @@
   <a href="mailto:al071392@uacam.mx">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-  <a href="https://in.linkedin.com/in/brayan-chan" target="_blank">
+  <a href="https://in.linkedin.com/in/in/brayan-chan-6466b0259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" />
   </a>
 </div>
