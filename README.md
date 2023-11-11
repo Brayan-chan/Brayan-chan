@@ -14,9 +14,6 @@
   <a href="mailto:al071392@uacam.mx">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-  <a href="www.linkedin.com/in/www.linkedin.com/in/brayan-chan121212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck" />
-  </a>
 </div>
 
 <hr/>
@@ -24,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,dart" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,mongodb,java,nextjs,mysql,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,dart" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,flutter" /><br>
 </div>
 
 <br/>
