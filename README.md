@@ -29,7 +29,7 @@
 <h2 align="center">📶  STATS  📶</h2>
 <div align="center">
 
-[![Brayan-chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-chan)](https://github.com/anuraghazra/github-readme-stats)
+![Brayan-chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-chan&show_icons=true)
 
 </div>
 
