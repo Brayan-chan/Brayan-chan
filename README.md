@@ -25,6 +25,8 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,flutter,php" /><br>
 </div>
 
+[![Brayan-chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-chan)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 <hr/>
 
