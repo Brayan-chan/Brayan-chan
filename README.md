@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<hr/>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -25,7 +25,14 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,flutter,php" /><br>
 </div>
 
+<hr/>
+<h2 align="center">📶  STATS  📶</h2>
+<div align="center">
+
 [![Brayan-chan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brayan-chan)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <br/>
 <hr/>
