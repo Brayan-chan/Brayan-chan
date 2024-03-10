@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,dart" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,flutter,php" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,flutter,php, astro" /><br>
 </div>
 
 <hr/>
@@ -40,8 +40,6 @@
 <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-chan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
-
-
 
 
 <br/>
