@@ -45,6 +45,28 @@
 <hr/>
 
 <div align="center">
+  
+<a href="https://github.com/Brayan-chan/MIMO-HTML">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=MIMO-HTML&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
+</a>
+
+<a href="https://github.com/Brayan-chan/MIMO-CSS-BASICO">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=MIMO-CSS-BASICO&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Brayan-chan/IMAGES-MIMO">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=IMAGES-MIMO&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
+</a>
+
+<a href="https://github.com/Brayan-chan/ETIQUETAS-ESTILO">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=ETIQUETAS-ESTILO&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
+</a>
+
+</div>
+
+<div align="center"><br>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/brayanchan)
 
