@@ -41,8 +41,11 @@
 
 </div>
 
-
 <br/>
 <hr/>
 
+<div align="center">
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://buymeacoffee.com/brayanchan)
+
+</div>
