@@ -1,4 +1,4 @@
-
+[![](https://visitcount.itsvg.in/api?id=Brayan-chan&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
