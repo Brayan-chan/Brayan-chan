@@ -56,8 +56,8 @@
 
 <br><br>
 
-<a href="https://github.com/Brayan-chan/IMAGES-MIMO">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=IMAGES-MIMO&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
+<a href="https://github.com/Brayan-chan/InvestigacionOperaciones">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=InvestigacionOperaciones&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
 </a>
 
 <a href="https://github.com/Brayan-chan/starnote">
