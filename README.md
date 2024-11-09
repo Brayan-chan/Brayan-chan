@@ -60,8 +60,8 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=IMAGES-MIMO&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
 </a>
 
-<a href="https://github.com/Brayan-chan/ETIQUETAS-ESTILO">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=ETIQUETAS-ESTILO&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
+<a href="https://github.com/Brayan-chan/starnote">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Brayan-chan&repo=starnote&layout=compact&theme=react&&border_radius=10&size_weight=0.5&count_weight=0.5&show_owner=true" />
 </a>
 
 </div>
